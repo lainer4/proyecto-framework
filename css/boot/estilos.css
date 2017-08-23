@@ -1,0 +1,32 @@
+
+.container-principal{
+  background: url(../imagen/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+header{
+  min-height: 200px;
+  background: rgb(169, 179, 249)
+}
+.margenredes{
+  margin-top: 13%;
+  margin-bottom: 1%
+}
+.nav{
+  min-height: 20%;
+  background: rgb(190, 166, 38)
+}
+.comentario{
+  border-radius: 3px;
+}
+.letra{
+  font-size: 1.2vw;
+}
+.margenbio{
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
