@@ -1,0 +1,21 @@
+body{
+  background: url(../imagen/pai.jpg);
+  background-attachment: scroll;
+
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+
+}
+.colortexto{
+  color: white;
+}
+.contenedor{
+  background: rgb(140, 145, 154);
+opacity: 0.95;
+
+}
+.left{
+  padding: 3%
+}
